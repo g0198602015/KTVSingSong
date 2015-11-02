@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">歌單POS App</string>
+    <string name="title_activity_main">歌單POS APP</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
